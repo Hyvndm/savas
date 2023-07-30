@@ -1,0 +1,2 @@
+# savas
+icindeki vs dısındaki
